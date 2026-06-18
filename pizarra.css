@@ -1,0 +1,36 @@
+.po-pizarra-contenedor {
+    max-width: 100%;
+    margin: 20px auto;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#pizarraOnline {
+    background-color: #ffffff;
+    border: 2px solid #333333;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    cursor: crosshair;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 15px auto;
+}
+
+.po-pizarra-controles {
+    margin-top: 10px;
+}
+
+.po-btn {
+    background-color: #333333;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background 0.2s ease;
+}
+
+.po-btn:hover {
+    background-color: #555555;
+}
