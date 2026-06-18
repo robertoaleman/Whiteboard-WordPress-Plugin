@@ -11,6 +11,7 @@ and voila, you have a quick note of a diagram or whatever you want to remember.
 * Version: 1.0
 * Author: Roberto C. Aleman F.
 * License: GPL v3
+* Web: https://ventics.com/online-whiteboard-wordpress-plugin/
 * Text Domain: pizarra-online
 
 Plugin Documentation: Online Whiteboard Shortcode
